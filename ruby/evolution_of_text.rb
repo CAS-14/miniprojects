@@ -1,6 +1,7 @@
 =begin
 This program is a recreation of the "Evolution of Text" app that used to be on usingpython.com
 This is also my first ruby program, I figured it is good to dive right in
+Created 5/20/22
 =end
 
 alphabet = "`1234567890-=qwertyuiop[]\\asdfghjkl;'zxcvbnm,./~!@#$%^&*()_+QWERTYUIOP{}|ASDFGHJKL:\"ZXCVBNM<>? "
