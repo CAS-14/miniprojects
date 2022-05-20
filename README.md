@@ -1,2 +1,4 @@
 # miniprojects
-Old files that I coded a while ago, and have decided to host on GitHub.
+Random small stuff I'm working on.
+
+More coming soon, I need to go through files on some old computers.
