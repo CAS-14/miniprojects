@@ -1,0 +1,21 @@
+from turtle import *
+from random import *
+from time import sleep
+
+m = Turtle()
+m.speed(0)
+m.pensize(3)
+m.pencolor("gray")
+# m.hideturtle()
+
+s = Turtle()
+s.speed(1)
+s.pensize(3)
+s.pencolor("lime")
+# s.hideturtle()
+
+while True:
+    s.fd(100)
+    m.fd(100)
+    s.rt(100)
+    m.rt(100)

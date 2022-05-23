@@ -1,0 +1,36 @@
+ADVENTURE GAME ERRORS
+
+0XX - NOT ERRORS
+------------------------
+ 10 Continue
+ 11 Continue and Convert Save
+ 14 Epic
+
+
+1XX - GAME BASED ERRORS
+------------------------
+100 Unknown Game Error
+101 Invalid Option
+102 Impossible Option
+110 Unknown Item
+
+
+2XX - SAVE BASED ERRORS
+------------------------
+200 Unknown Game Error
+201 Invalid Format
+202 Incorrect Game
+203 Missing Data
+204 File Read Problem
+206 Game Not Specified
+207 Save Stopped Working
+208 Incompatible Version
+209 Wrong Data Types
+
+
+3XX - DEV CONSOLE ERRORS
+-------------------------
+300 Unknown Console Error
+301 Command Not Found
+302 Invalid Command Arguments
+303 Could Not Execute Command

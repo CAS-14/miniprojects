@@ -1,0 +1,10 @@
+!!CASGAMEFORMAT
+loadType=NORMAL
+game=adventureGame
+version=0.1.0
+displayName=Awesome Doge
+scene=2
+dev=False
+characterName=Chazzz
+inventory={10:1,1000:1}
+saveFormat=2

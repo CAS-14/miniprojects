@@ -1,0 +1,10 @@
+!!CASGAMEFORMAT
+loadType=PERFECT
+game=adventureGame
+version=<VERSION>
+displayName=<DISPLAY NAME>
+scene=<SCENE>
+dev=<True/False>
+characterName=<NAME>
+inventory={<ITEM_ID>:<AMOUNT>,<ITEM_ID>:<AMOUNT>}
+saveFormat=2
