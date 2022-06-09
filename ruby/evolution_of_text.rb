@@ -5,7 +5,7 @@ Created 5/20/22
 =end
 
 alphabet = "`1234567890-=qwertyuiop[]\\asdfghjkl;'zxcvbnm,./~!@#$%^&*()_+QWERTYUIOP{}|ASDFGHJKL:\"ZXCVBNM<>? "
-speed = 0.02
+speed = 0.05
 
 print "Enter text to evolve: "
 target = gets.chomp
