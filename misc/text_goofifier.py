@@ -15,7 +15,7 @@ for i in range(times):
 
     snippet = text[start : start + length]
 
-    text = text.replace(snippet, "")
+    text = text.replace(snippet, "", 1)
     place = randint(0, len(text))
     text = text[0 : place] + snippet + text[place+1 : len(text) - 1]
 
